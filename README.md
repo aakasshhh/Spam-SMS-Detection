@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 ## Contact Information:
-For any questions or feedback, feel free to reach out at Email: aakashjainonline18@gmail.com or linkedin: https://www.linkedin.com/in/aakash-jain-bb7336254/
+For any questions or feedback, feel free to reach out at Email: aakashjainonline18@gmail.com or linkedin: https://www.linkedin.com/in/aakash-jain-/
 
 ## Contribution Guidelines:
 If you'd like to contribute to this project, please refer to the guidelines in the CONTRIBUTING.md file.
