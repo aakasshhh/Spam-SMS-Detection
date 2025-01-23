@@ -6,7 +6,6 @@ Spam SMS Detection using AIML is a machine learning project aimed at automatical
 ![maxresdefault](https://github.com/aakasshhh/Spam-SMS-Detection/assets/118706951/da9b239b-2710-4a8b-9da8-cb626b29337e)
 
 
-
 ## Features:
 
 #### 1. Data Preprocessing:
@@ -30,6 +29,11 @@ Deploy the trained model as a standalone application, web service/API, or mobile
 #### 7. Scalability and Performance: 
 Design the solution to handle large volumes of SMS messages efficiently, ensuring real-time processing and resource optimization.
 
+![Screenshot 2025-01-23 112749](https://github.com/user-attachments/assets/d7d0ba1d-1669-4a90-9bbf-545dfc07c8bb)
+
+![Screenshot 2025-01-23 112823](https://github.com/user-attachments/assets/8d53ef4c-1aef-4580-9722-b0a126d12684)
+
+
 ## Installation
 1. Clone this repository.
 2. Install the required dependencies by running:
@@ -43,6 +47,8 @@ Design the solution to handle large volumes of SMS messages efficiently, ensurin
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+![Screenshot 2025-01-23 112839](https://github.com/user-attachments/assets/52b8910f-b1f2-4282-9c6b-c6bcf52d9981)
 
 ## Acknowledgements
 - The SMS Spam Collection Dataset used in this project is sourced from [link to dataset].
